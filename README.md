@@ -164,7 +164,7 @@ Built-in feature from Next.js:
 Run the following command on your local environment:
 
 ```shell
-git clone --depth=1 https://github.com/ixartz/Next-js-Boilerplate.git my-project-name
+git clone --depth=1 https://github.com/Professional0321/next-kit-project my-project-name
 cd my-project-name
 npm install
 ```
@@ -506,7 +506,3 @@ See [LICENSE](LICENSE) for more information.
 </table>
 
 ---
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
-
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/ixartz)
